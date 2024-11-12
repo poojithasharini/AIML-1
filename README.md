@@ -4,3 +4,6 @@ Lab 3 : https://github.com/PoojithaShariniG/AIML/blob/5addde08fe1df089bddc703b64
 Lab 4 : https://github.com/PoojithaShariniG/AIML/blob/641e09763583a82b3ce3f37a65b13109ee5974a3/AIML_LAB_4.ipynb
 LAB 5 : https://github.com/PoojithaShariniG/AIML/blob/c1ecaaffa2a423f4518901106751273501fc763e/AIML_Ass_05.ipynb
 Lab 6 : https://github.com/PoojithaShariniG/AIML/blob/ed5db358ccc201c2eab9546b6f5e95b2b671182c/Lab_06_Aiml.ipynb
+LAB 8 :
+LAB 9 : 
+LAB 10:
